@@ -1,7 +1,7 @@
 # Grunty Kościelne
 Interaktywna mapa gruntów kościelnych (kościoły i związki wyznaniowe) z powiatowych Ewidencji Gruntów i Budynków.
 
-Link: https://phaseloop.github.io/grunty-koscielne
+Link: https://grunty-koscielne.github.io
 
 ![](./img/krakow-grunty.jpg)
 
